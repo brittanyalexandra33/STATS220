@@ -1,7 +1,14 @@
 # STATS220
 <html>
-	<body>
-		<h1> MUSIC TRIVIA </h1>
+  This is Brittany Alexandra's Repo for Project 1, Stats220! 
+   I've made this to demonstrate my ability to...
+
+1. Use of two differentlevels of headers
+2. Use two different types of bullet points (ordered or unordered) 
+3. Use **bold** and <em> italics </em>
+4. Use of links to other websites 
+	</body>
+		<h1> RANDOM MUSIC TRIVIA </h1>
 		<h3> Brittany's Top Music Artists </h3>
 
 <ul>
@@ -10,10 +17,3 @@
 	<li> <em> Bad Bunny </em> </li>
 	<img src="/https://media.tenor.com/L1EZ8-ftKKAAAAAC/elf-will-ferrell.gif"/>
 
-</ul>
-		<h3> Top Songs from 2020 </h3>
-<ol>
-	<li> <b> Blinding lights - The Weekend </b> </li>
-	<li> <em> Circles - Post Malone </em> </li>
-	<li> <em> The Box - Roddy Rich </em> </li>
-</ol>
